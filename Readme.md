@@ -8,11 +8,11 @@ The dataset used our project is termed as Health Insurance Marketplace dataset. 
 
 **Research Questions**
 
-We aim to address few questions which will help in creation of recommender system and analyse it. Firstly, what are the plans prevalent in the area where the user lives. How would the situation of a person impact the cost of the plan? 
+We aim to address few questions which will help in creation of recommender system and analyse it. Firstly, what are the plans prevalent in the area where the user lives. How would the situation of a person impact the cost of the plan? We aim to draw a comparison between the two algorithms. How would the both algorithms perform and which one is actually better for our use case?
 
 **Algorithms**
 
-We aim to draw a comparison between the two algorithms. Since we do not have any pre-existing demographic data, Content based filtering will be used to create a recommendation system. The other algorithm that we’ll be using is Decision Tree. Content-based filtering and decision tree algorithm are both commonly used in recommendation systems to provide personalized recommendations to users. Content-based filtering is a technique that recommends items to a user based on the features of items that the user has previously shown interest in. On the other hand, a decision tree algorithm is a machine learning technique that can be used to build a model for decision-making. In the context of recommendation systems, a decision tree algorithm can be used to predict which items a user will be interested in based on the attributes of the items and the user's preferences.
+Since we do not have any pre-existing demographic data, Content based filtering will be used to create a recommendation system. The other algorithm that we’ll be using is Decision Tree. Content-based filtering and decision tree algorithm are both commonly used in recommendation systems to provide personalized recommendations to users. Content-based filtering is a technique that recommends items to a user based on the features of items that the user has previously shown interest in. On the other hand, a decision tree algorithm is a machine learning technique that can be used to build a model for decision-making. In the context of recommendation systems, a decision tree algorithm can be used to predict which items a user will be interested in based on the attributes of the items and the user's preferences.
 
 **Collaborators**
 
