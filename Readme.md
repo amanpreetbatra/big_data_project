@@ -12,10 +12,10 @@ We aim to address few questions which will help in creation of recommender syste
 
 **Collaborators**
 
-- Amanpreet Singh<a href="https://github.com/batra2304/">
-- Simran Kaur<a href="https://github.com/Simran-99/">
-- Sheil Patel<a href="https://github.com/sgp124/">
-- Sakshi Patel<a href="https://github.com/Sakshi1503/">
+- [Amanpreet Singh](https://github.com/batra2304/)
+- [Simran Kaur](https://github.com/Simran-99/)
+- [Sheil Patel](https://github.com/sgp124/)
+- [Sakshi Patel](https://github.com/Sakshi1503/)
 
 **Refrences**
 
